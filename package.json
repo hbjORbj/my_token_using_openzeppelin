@@ -1,0 +1,18 @@
+{
+  "name": "my_own_token_using_openzeppelin",
+  "version": "1.0.0",
+  "description": "Development of my own token using OpenZeppelin on Ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Benny Joo",
+  "license": "ISC",
+  "devDependencies": {
+    "openzeppelin-solidity": "^3.3.0"
+  }
+}
