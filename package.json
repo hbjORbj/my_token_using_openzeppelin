@@ -9,10 +9,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbjORbj/my_token_using_openzeppelin.git"
+  },
   "keywords": [],
   "author": "Benny Joo",
   "license": "ISC",
-  "devDependencies": {
-    "openzeppelin-solidity": "^3.3.0"
+  "bugs": {
+    "url": "https://github.com/hbjORbj/my_token_using_openzeppelin/issues"
+  },
+  "homepage": "https://github.com/hbjORbj/my_token_using_openzeppelin#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.3.0"
   }
 }
