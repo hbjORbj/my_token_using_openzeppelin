@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/hbjORbj/my_token_using_openzeppelin#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^3.3.0"
+    "@openzeppelin/contracts": "^3.3.0",
+    "ganache-cli": "^6.12.1"
   }
 }
